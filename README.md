@@ -1,5 +1,5 @@
-# 🏭 Industrial Grade Project 1 (IGP1)
-### ABC Technologies — Full DevOps Pipeline
+# ⚙️ Kubernetes-Native-CICD-Platform
+### A full-Stack DevOps Pipeline
 
 
 ---
@@ -254,8 +254,8 @@ helm version
 ### Clone and Build
 
 ```bash
-git clone git@github.com:Gats-bey/Industrial-Grade-Project-1.git
-cd Industrial-Grade-Project-1
+git clone git@github.com:Adewoleshittabey/Kubernetes-Native-CICD-Platform.git
+cd Kubernetes-Native-CICD-Platform
 mvn clean test          # Run unit tests
 mvn package             # Build WAR artifact
 ```
@@ -362,7 +362,7 @@ Full phase-by-phase documentation is available for each stage of the project:
 
 ## 🏆 Project Outcome
 
-IGP1 demonstrates a complete, production-grade DevOps pipeline covering every stage of the modern software delivery lifecycle:
+This project demonstrates a complete, production-grade DevOps pipeline covering every stage of the modern software delivery lifecycle:
 
 ```
 Source Control → CI/CD → Containerisation → Automation → Orchestration → Observability
@@ -373,4 +373,4 @@ The platform supports **automated builds on every commit**, **zero-downtime roll
 
 ---
 
-*Industrial Grade Project 1 · ABC Technologies · Adewole Shitta Bey · 2026*
+*Kubernetes-Native-CICD-Platform · ABC Technologies · Adewole Shitta Bey · 2026*
