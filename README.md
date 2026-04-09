@@ -22,9 +22,10 @@
 
 ## 🔍 Overview
 
-IGP1 is a **production-grade DevOps pipeline** built end-to-end. This is my key deliverable following the completion of the Post Graduate Program in DevOps by Edureka in collaboration with Purdue University. The project transforms a raw Java source repository into a fully automated, containerised, Kubernetes-orchestrated, and monitored platform — implementing all major DevOps disciplines across six progressive phases.
+**Kubernetes-Native-CICD-Platform** is a production-grade, end-to-end DevOps pipeline built across six progressive phases, from raw source code to a fully automated, containerised, Kubernetes-orchestrated, and monitored platform. This is my key deliverable from the Post Graduate Program in DevOps by Edureka in collaboration with Purdue University.
 
-> **Application:** ABC Technologies Retail Portal  
+The pipeline implements every major DevOps discipline: source control, CI/CD automation, containerisation, infrastructure as code, container orchestration, and real-time observability — culminating in a Kubernetes-native deployment with zero-downtime rolling updates and live Prometheus/Grafana monitoring.
+
 > **Stack:** Java → Maven → Jenkins → Docker → Ansible → Kubernetes → Prometheus/Grafana  
 > **Deployment Targets:** VM Tomcat · Docker Container · Kubernetes (2 replicas)  
 > **Monitoring:** Real-time metrics via Prometheus & Grafana dashboards
